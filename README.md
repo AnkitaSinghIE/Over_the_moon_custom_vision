@@ -7,7 +7,7 @@
 - Test the model you trained.
 - Ensure ethical practices throughout AI development.
 # Introduction
-![over](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/images%20used%20in%20project/bungi%20and%20fei%20fei.jpg)
+![over](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/images%20used%20in%20project/fei-fei-bungee.png)
 You will train a Custom Vision AI to be able to identify your pet in an image. And you will do these tasks without needing to know how to code!
 Remember, while you can use technical skills to build almost anything, the ultimate goal should always be to help people. Designing technology to help people is something Microsoft is passionate about, especially when it applies to AI. We focus on AI for Good. We want to encourage you to start your AI journey by always thinking about how you can help improve our world.
 ## About [Over the Moon](https://www.youtube.com/watch?v=26DIABx44Tw)
