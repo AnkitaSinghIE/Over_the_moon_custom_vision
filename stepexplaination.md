@@ -9,7 +9,7 @@
 * Step 4 : Add atleast 15 image and tag them with same name
 * step 5 : Test you project
 * Step 6:  It iteartes and after iteration it shows the percentages
-![Reasult after iteration](Images of the result\afterIteration.png)
+![Reasult after iteration](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/Images%20of%20the%20result/afterIteration.png)
 * Step 7: Upload image to check the result
 ![bungi result](Images of the result\bungii.png)
 ![bg](\Images of the result\bg-serach.png)
