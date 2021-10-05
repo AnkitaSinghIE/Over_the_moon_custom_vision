@@ -12,5 +12,7 @@
 ### Step 6:  It iteartes and after iteration it shows the percentages
 ![Reasult after iteration](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/Images%20of%20the%20result/afterIteration.png)
 ### Step 7: Upload image to check the result
+#### In image 1 the percentage of accuracy is 15% and image 2 the percentage of accuracy is 81% (you can change the accuracy based on your need)
 ![bungi result](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/Images%20of%20the%20result/bg-serach.png)
-![bg](\Images of the result\bg-serach.png)
+
+![bg](https://github.com/AnkitaSinghIE/Over_the_moon_custom_vision/blob/master/Images%20of%20the%20result/bungii.png)
